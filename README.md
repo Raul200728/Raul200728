@@ -25,6 +25,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Raul200728/Raul200728/output/snake.svg" alt="Snake animation" />
 
-###
